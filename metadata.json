@@ -1,0 +1,6 @@
+{
+  "name": "EcoReEngine",
+  "description": "Explora proyectos de tecnología y reciclaje, calcula valores de resistencias, consulta guías de e-waste, juega la simulación interactiva de circuitos y comparte tus creaciones sustentables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
